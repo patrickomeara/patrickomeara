@@ -1,11 +1,11 @@
-Hey, I'm Pat.
+## Hi, I’m Pat.
 
-I'm a Software Engineer, I usually write Typescript and PHP, and usually use React, TanStack, React Native, Expo and Laravel.
+I’m a software engineer focused on building modern web and mobile applications. My day-to-day stack includes TypeScript, PHP, React, TanStack, React Native, Expo, and Laravel.
 
-I contribute to and advocate for Open Source Software.
+I actively contribute to open source projects and advocate for open collaboration and better developer tools.
 
-Most of the time I'm hacking on [Maintainly.com](https://maintainly.com) or hanging with my kids.
+Most of my time goes into [Maintainly.com](https://maintainly.com), a CMMS platform I help build, or spending time with my kids.
 
-I also run [PHPxMEL](https://phpxmel.com).
+I also run [PHPxMEL](https://phpxmel.com), a PHP-focused meetup based in Melbourne.
 
-You can follow me on [BlueSky](https://bsky.app/profile/patrickomeara.bsky.social) and reluctantly still on [Twitter](https://x.com/patomeara)
+You can find me on [BlueSky](https://bsky.app/profile/patrickomeara.bsky.social) or still, somewhat reluctantly, on [Twitter](https://x.com/patomeara).
